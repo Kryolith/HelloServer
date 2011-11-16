@@ -10,7 +10,7 @@ public class Helloserver extends JavaPlugin {
 
     public void onEnable() {
         // TODO: Place anable code here, such as registering events
-        
+        System.out.println("kryo edited this file");
         System.out.println(this + " juhu test is now kgu enabled! blabla Hooray");
     }
 }
