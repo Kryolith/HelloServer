@@ -11,6 +11,6 @@ public class Helloserver extends JavaPlugin {
     public void onEnable() {
         // TODO: Place any custom enable code here, such as registering events
         
-        System.out.println(this + " is now enabled! blabla Hooray");
+        System.out.println(this + " juhu test is now enabled! blabla Hooray");
     }
 }
