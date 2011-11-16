@@ -9,7 +9,7 @@ public class Helloserver extends JavaPlugin {
     }
 
     public void onEnable() {
-        // TODO: Place any custom enable code here, such as registering events
+        // TODO: Place anable code here, such as registering events
         
         System.out.println(this + " juhu test is now kgu enabled! blabla Hooray");
     }
